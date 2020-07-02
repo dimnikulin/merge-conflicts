@@ -1,12 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+# vk.com
+- project: VK.COM
+  role: Front-End Developer
+  duration: 2020 &mdash; Present
+  url: "https://vk.com/dmitry_nikulin"
+  description: Add some music to the wall
 
 # GitHub Classroom
 - project: GitHub Classroom
